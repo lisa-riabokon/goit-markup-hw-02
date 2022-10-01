@@ -47,10 +47,10 @@ body {
   color: var(--accent-color);
 }
 
-.logo.link:hover,
+/* .logo.link:hover,
 .logo.link:focus {
   color: var(--accent-color);
-}
+} */
 .header-mail,
 .header-tel {
   font-weight: 500;
